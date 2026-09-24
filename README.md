@@ -1,12 +1,18 @@
+>  ___Stop asking for compiled `.dll` downloads___. They do NOT exist on this page, this is the source code! ***BUILD IT YOURSELF.***
+
+<h1 align="center">^^^ READ FIRST ^^^^</h1>
+
 # Discord servers:
 
 Velocity: 
 > *https://discord.com/invite/velocityide* 
 
-Official Custom-Uis discord server for Velocity 
-> *https://discord.com/invite/r5SyNyCYjb*
+~~Official Custom-Uis discord server for Velocity~~
+> ~~*https://discord.com/invite/r5SyNyCYjb*~~
+> 
+^ Note for the above server: this server is beyond dead as we do not care enough to maintain it, sorry.
 
-includes some of the old major exploits such as but not limited to -> Synapse (X, blue, v3) KRNL, Nihon and way more to come!
+> *Technically this doesn't revoke its "official" partnership status, however most of the stuff is outdated and probably broken, please note that before usage.* 
 
 ## READ ME BEFORE USE!!!!! 
 
@@ -34,7 +40,7 @@ It acts as a bridge between your application and Velocity’s backend systems, s
 * Service communication
 * Execution and injection control handling
 
-## Installation 
+## Installation | **AFTER BUILDING THE DLL YOURSELF**
 
 ### Project Reference
 
